@@ -20,4 +20,4 @@ This is a simple chat application built using Kotlin for Android. It features a 
 
 1. Clone the repository:
    
-   git clone 
+   git clone https://github.com/Nitya-gattu/ChatApp
